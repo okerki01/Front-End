@@ -1,0 +1,16 @@
+c:\users\ohey1\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\bin\Debug\DefuseBomb.dll
+c:\users\ohey1\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\bin\Debug\DefuseBomb.pdb
+c:\users\ohey1\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\ohey1\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\ohey1\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\ohey1\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\ohey1\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\ohey1\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\bin\Debug\Xamarin.Forms.Platform.pdb
+c:\users\ohey1\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\ohey1\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\ohey1\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\obj\Debug\DefuseBomb.csprojResolveAssemblyReference.cache
+c:\users\ohey1\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\obj\Debug\DefuseBomb.csproj.CoreCompileInputs.cache
+c:\users\ohey1\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\obj\Debug\DefuseBomb.MainPage.xaml.g.cs
+c:\users\ohey1\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\obj\Debug\DefuseBomb.App.xaml.g.cs
+c:\users\ohey1\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\obj\Debug\DefuseBomb.dll
+c:\users\ohey1\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\obj\Debug\DefuseBomb.pdb
